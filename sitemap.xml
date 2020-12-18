@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huangchao.top/about/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangchao.top/book/index.html</loc>
     
     <lastmod>2020-12-18</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://huangchao.top/gallery/student/index.html</loc>
+    <loc>https://huangchao.top/tags/index.html</loc>
     
     <lastmod>2020-12-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://huangchao.top/gallery/index.html</loc>
+    <loc>https://huangchao.top/link/index.html</loc>
     
     <lastmod>2020-12-18</lastmod>
     
@@ -30,7 +37,35 @@
   </url>
   
   <url>
+    <loc>https://huangchao.top/gallery/student/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huangchao.top/gallery/young/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huangchao.top/gallery/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huangchao.top/artitalk/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huangchao.top/categories/index.html</loc>
     
     <lastmod>2020-12-18</lastmod>
     
@@ -44,21 +79,7 @@
   </url>
   
   <url>
-    <loc>https://huangchao.top/about/index.html</loc>
-    
-    <lastmod>2020-12-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huangchao.top/article/aeb318cd.html</loc>
-    
-    <lastmod>2020-12-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangchao.top/link/index.html</loc>
     
     <lastmod>2020-12-15</lastmod>
     
@@ -86,28 +107,7 @@
   </url>
   
   <url>
-    <loc>https://huangchao.top/artitalk/index.html</loc>
-    
-    <lastmod>2020-12-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huangchao.top/article/132921e4.html</loc>
-    
-    <lastmod>2020-12-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangchao.top/categories/index.html</loc>
-    
-    <lastmod>2020-12-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huangchao.top/tags/index.html</loc>
     
     <lastmod>2020-12-14</lastmod>
     
