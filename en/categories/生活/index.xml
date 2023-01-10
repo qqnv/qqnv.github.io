@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>生活 on qqnv</title>
+    <link>https://qqnv.com/en/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on qqnv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>qqnvblog@gmail.com (qqnv)</managingEditor>
+    <webMaster>qqnvblog@gmail.com (qqnv)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 15 Mar 2022 15:59:27 +0800</lastBuildDate>
+    
+        <atom:link href="https://qqnv.com/en/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>SaySomething</title>
+        <link>https://qqnv.com/en/posts/saysomething/</link>
+        <pubDate>Tue, 15 Mar 2022 15:59:27 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Tue, 15 Mar 2022 15:59:27 +0800</atom:modified>
+        <guid>https://qqnv.com/en/posts/saysomething/</guid>
+        <description>过了这么多年，终于发现了那些让我喜欢的人的特质，他们总是生机勃勃的，有自己喜欢的事情，不过多的干涉别人的生活，懂得人际交往的边界，不四处炫耀</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thinking</category>
+            
+          
+        
+        
+          
+            
+              <category>生活</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

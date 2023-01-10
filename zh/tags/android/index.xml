@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>android on 曳雨轻风</title>
+    <link>https://qqnv.com/zh/tags/android/</link>
+    <description>Recent content in android on 曳雨轻风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>qqnvblog@gmail.com (qqnv)</managingEditor>
+    <webMaster>qqnvblog@gmail.com (qqnv)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 15 Mar 2022 12:08:42 +0800</lastBuildDate>
+    
+        <atom:link href="https://qqnv.com/zh/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Android基础</title>
+        <link>https://qqnv.com/zh/posts/android%E5%9F%BA%E7%A1%80/</link>
+        <pubDate>Tue, 15 Mar 2022 12:08:42 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Tue, 15 Mar 2022 12:08:42 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/android%E5%9F%BA%E7%A1%80/</guid>
+        <description>为什么Android的UI操作是不安全的 首先要知道什么是线程安全，什么是线程不安全 线程安全：多个线程访问时，采用加锁机制，当一个线程访问该类</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>android</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Jetpack</title>
+        <link>https://qqnv.com/zh/posts/jetpack/</link>
+        <pubDate>Tue, 15 Mar 2022 00:10:56 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Tue, 15 Mar 2022 00:10:56 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/jetpack/</guid>
+        <description>Jetpack是一个由多个库组成的套件，可帮助开发者遵循最佳做法，减少样板代码并编写可在各种Android版本和设备中一致运行的代码，让开发</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>android</category>
+            
+          
+            
+              <category>jetpack</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Kotlin</title>
+        <link>https://qqnv.com/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</link>
+        <pubDate>Mon, 14 Mar 2022 23:09:16 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Mon, 14 Mar 2022 23:09:16 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</guid>
+        <description>异常 Kotlin标准库提供了一些便利函数，使用这些内置函数，你可以拋出带自定义信息的异常，这些便利函数叫做先决条件函数，你可以用它定义先决条</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>kotlin</category>
+            
+          
+            
+              <category>android</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>AndroidStudio</title>
+        <link>https://qqnv.com/zh/posts/androidstudio/</link>
+        <pubDate>Mon, 14 Mar 2022 22:46:03 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Mon, 14 Mar 2022 22:46:03 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/androidstudio/</guid>
+        <description>as运行main（）方法 报错：SourceSet with name ‘main’ not found 解决：在项目的.idea/gradle.xml中的添加&amp;lt;optio</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>android</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

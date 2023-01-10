@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>hugo on 曳雨轻风</title>
+    <link>https://qqnv.com/zh/tags/hugo/</link>
+    <description>Recent content in hugo on 曳雨轻风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>qqnvblog@gmail.com (qqnv)</managingEditor>
+    <webMaster>qqnvblog@gmail.com (qqnv)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 15 Mar 2022 18:47:32 +0800</lastBuildDate>
+    
+        <atom:link href="https://qqnv.com/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hugo博客搭建</title>
+        <link>https://qqnv.com/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Tue, 15 Mar 2022 18:47:32 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Tue, 15 Mar 2022 18:47:32 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <description>本地博客 安装Hugo brew install hugo 建立新站点 hugo new site blog 添加主题 cd blog git init git submodule add https://github.com/budparr/gohugo-theme-&amp;lt;YOURTHEME&amp;gt;.git themes/&amp;lt;YOURTHEME&amp;gt; 新建文章 hugo new posts/article.md 开启本地服务 hugo server GitHub部署Hugo 创建GitHub</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

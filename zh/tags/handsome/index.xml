@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>handsome on 曳雨轻风</title>
+    <link>https://qqnv.com/zh/tags/handsome/</link>
+    <description>Recent content in handsome on 曳雨轻风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>qqnvblog@gmail.com (qqnv)</managingEditor>
+    <webMaster>qqnvblog@gmail.com (qqnv)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 14 Mar 2022 21:43:47 +0800</lastBuildDate>
+    
+        <atom:link href="https://qqnv.com/zh/tags/handsome/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Typecho博客搭建</title>
+        <link>https://qqnv.com/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Mon, 14 Mar 2022 21:43:47 +0800</pubDate>
+        <author>qqnvblog@gmail.com (qqnv)</author>
+        <atom:modified>Mon, 14 Mar 2022 21:43:47 +0800</atom:modified>
+        <guid>https://qqnv.com/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <description>Typecho搭建博客 登录宝塔面板 前往Typecho官网下载Typecho 安装包 安装Nginx、MySQL、PHP等运行时环境 创建站点，进入</description>
+        
+        <dc:creator>qqnv</dc:creator>
+        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>typecho</category>
+            
+          
+            
+              <category>handsome</category>
+            
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
