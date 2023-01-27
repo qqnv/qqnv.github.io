@@ -1812,8 +1812,8 @@
 <li><code>git init .</code></li>
 <li><code>git add .</code></li>
 <li><code>git commit -m &quot;xxx&quot;</code></li>
-<li><code>git remote add origin https://github.com/xxx/xxx.github.io.git</code></li>
-<li><code>git push -u origin master</code></li>
+<li>`git remote add origin 仓库地址</li>
+<li><code>git push -u origin 分支名</code></li>
 <li>github为该项目配置page及域名，输入域名即可访问</li>
 </ol>
 </blockquote>
@@ -1886,10 +1886,10 @@
 </span></span><span class="line"><span class="cl"><span class="k">fi</span>
 </span></span><span class="line"><span class="cl">git commit -m <span class="s2">&#34;</span><span class="nv">$msg</span><span class="s2">&#34;</span>
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">git pull 
+</span></span><span class="line"><span class="cl">git pull origin main
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="c1"># Push source and build repos.</span>
-</span></span><span class="line"><span class="cl">git push
+</span></span><span class="line"><span class="cl">git push origin main
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="c1"># Back to the origin folder</span>
 </span></span><span class="line"><span class="cl"><span class="c1"># cd ..</span>

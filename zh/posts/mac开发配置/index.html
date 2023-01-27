@@ -1849,7 +1849,11 @@ export PATH=${PATH}:/Users/qqnv/Library/Android/sdk/tools
 </code></pre><h2 id="盒盖禁止休眠">盒盖禁止休眠</h2>
 <p>命令行执行<code>sudo pmset -a disablesleep 1</code></p>
 <p>反之<code>sudo pmset -a disablesleep 0</code></p>
-<h2 id="heading"></h2>
+<h2 id="idea项目permission-denied">IDEA项目Permission denied</h2>
+<p>Mac系统对文件夹访问权限比较严格，应该是对tomcat所在文件夹权限不足，导致运行失败。</p>
+<h4 id="通过linux命令使用终端赋予指定文件夹可操作权限">通过Linux命令使用终端赋予指定文件夹可操作权限</h4>
+<p>打开终端，cd到tomcat的bin目录下</p>
+<p>赋予权限<code>chmod 777 *.sh</code></p>
 
     </article>
     
@@ -2603,7 +2607,15 @@ document.addEventListener('DOMContentLoaded', function () {
       </ul>
     </li>
     <li><a href="#盒盖禁止休眠">盒盖禁止休眠</a></li>
-    <li><a href="#heading"></a></li>
+    <li><a href="#idea项目permission-denied">IDEA项目Permission denied</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#通过linux命令使用终端赋予指定文件夹可操作权限">通过Linux命令使用终端赋予指定文件夹可操作权限</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
