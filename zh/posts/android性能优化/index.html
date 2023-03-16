@@ -1760,7 +1760,7 @@
 <div class="single__infos">
   <time class="single__info" title="创建日期">📅&nbsp;2023年02月13日 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;4&nbsp;分钟 </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;5&nbsp;分钟 </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="作者">🎅&nbsp;qqnv</span>
   
@@ -2039,12 +2039,94 @@
 <li>内存泄漏</li>
 <li>内存抖动</li>
 <li>Bitmap</li>
+<li>谨慎使用SharedPrence</li>
+<li>谨慎使用外部库</li>
+<li>业务架构设计合理</li>
 </ul>
 <h2 id="app布局优化">App布局优化</h2>
+<p>工具</p>
+<ul>
+<li>Aop、Hook</li>
+<li>Systrace、layout inspector</li>
+</ul>
+<p>优化</p>
+<ul>
+<li>IO、反射、遍历</li>
+<li>异步inflate、x2c、减少层级、重绘</li>
+<li>Aop、监控</li>
+</ul>
+<p>结果产出</p>
+<ul>
+<li>体系化监控手段：线下&amp;线上</li>
+<li>指标：FPS、加载时间、布局层级</li>
+</ul>
 <h2 id="app线程优化">App线程优化</h2>
+<ul>
+<li>线程收敛</li>
+<li>统一线程池：任务区分</li>
+<li>其他细节</li>
+</ul>
 <h2 id="app网络优化">App网络优化</h2>
+<p>网络切换、弱网、无网测试</p>
+<p>服务端</p>
+<ul>
+<li>服务端监控请求耗时（地域、时段、版本、机型）</li>
+<li>服务端监控失败率（业务失败、请求失败）</li>
+<li>服务端监控Top失败和异常接口</li>
+</ul>
+<p>客户端</p>
+<ul>
+<li>接口的每一步详细信息（DNS、链接、请求）</li>
+<li>请求次数、网络包大小、失败原因</li>
+<li>图片监控</li>
+</ul>
+<p>异常监控体系</p>
+<ul>
+<li>服务器防刷：超限拒绝访问</li>
+<li>客户端：大文件预警、异常兜底策略</li>
+<li>单点问题追查</li>
+</ul>
 <h2 id="app电量优化">App电量优化</h2>
+<p>CPU时间片</p>
+<ul>
+<li>获取运行过程CPU消耗，定位CPU占有率异常方法</li>
+<li>减少后台应用主动运行</li>
+</ul>
+<p>网络请求</p>
+<ul>
+<li>请求时机及次数限制</li>
+<li>数据压缩减少时间</li>
+<li>避免使用轮询功能</li>
+</ul>
+<p>定位相关</p>
+<ul>
+<li>根据场景谨慎选择定位模式</li>
+<li>考虑网络定位代替GPS</li>
+<li>使用后务必及时关闭，减少更新频率</li>
+</ul>
+<p>界面相关</p>
+<ul>
+<li>离开界面后停止相关活动</li>
+<li>耗电操作判断前后台</li>
+</ul>
+<p>weaklock相关</p>
+<ul>
+<li>注意成对出现：acquire与release</li>
+<li>使用带参数的acquire</li>
+<li>finally确保一定会被释放</li>
+<li>常亮场景使用keepScreenOn即可</li>
+</ul>
+<p>JobSchedular</p>
+<ul>
+<li>在符合某些条件时创建执行在后台的任务</li>
+<li>把不紧急的任务放到更合适的时机进行批量处理</li>
+</ul>
 <h2 id="app瘦身优化">App瘦身优化</h2>
+<ul>
+<li>代码瘦身</li>
+<li>资源瘦身</li>
+<li>so瘦身</li>
+</ul>
 <h2 id="app稳定性优化">App稳定性优化</h2>
 
     </article>
