@@ -2194,11 +2194,9 @@
 </span><span class="lnt">23
 </span><span class="lnt">24
 </span><span class="lnt">25
-</span><span class="lnt">26
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="cm">/*访问总量*/</span>
-</span></span><span class="line"><span class="cl"> <span class="k">function</span> <span class="nf">theAllViews</span><span class="p">(){</span>
+<pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"> <span class="k">function</span> <span class="nf">theAllViews</span><span class="p">(){</span>
 </span></span><span class="line"><span class="cl">         <span class="nv">$db</span> <span class="o">=</span> <span class="nx">Typecho_Db</span><span class="o">::</span><span class="na">get</span><span class="p">();</span>
 </span></span><span class="line"><span class="cl">         <span class="nv">$row</span> <span class="o">=</span> <span class="nv">$db</span><span class="o">-&gt;</span><span class="na">fetchAll</span><span class="p">(</span><span class="s1">&#39;SELECT SUM(VIEWS) FROM `typecho_contents`&#39;</span><span class="p">);</span>
 </span></span><span class="line"><span class="cl">             <span class="k">echo</span> <span class="nx">number_format</span><span class="p">(</span><span class="nv">$row</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;SUM(VIEWS)&#39;</span><span class="p">]);</span>
