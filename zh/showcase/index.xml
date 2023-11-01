@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Showcase overview on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/showcase/</link>
+    <link>https://qqnv.github.io/zh/showcase/</link>
     <description>Recent content in Showcase overview on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/showcase/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hugo</title>
-        <link>https://qqnv.com/zh/showcase/qqnv/</link>
+        <link>https://qqnv.github.io/zh/showcase/qqnv/</link>
         <pubDate>Sun, 19 Jan 2020 21:04:11 +0900</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Sun, 19 Jan 2020 21:04:11 +0900</atom:modified>
-        <guid>https://qqnv.com/zh/showcase/qqnv/</guid>
+        <guid>https://qqnv.github.io/zh/showcase/qqnv/</guid>
         <description></description>
         
         <dc:creator>qqnv</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>mac on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/mac/</link>
+    <link>https://qqnv.github.io/zh/tags/mac/</link>
     <description>Recent content in mac on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 15:25:54 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Mac开发配置</title>
-        <link>https://qqnv.com/zh/posts/mac%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</link>
+        <link>https://qqnv.github.io/zh/posts/mac%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Tue, 15 Mar 2022 15:25:54 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 15:25:54 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/mac%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</guid>
+        <guid>https://qqnv.github.io/zh/posts/mac%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE/</guid>
         <description>环境变量配置 配置过程 命令行输入：echo $PATH，查看已配置的环境变量 sudo vi ~/.bash_profile，进入环境变量配置文件 默认是只读状</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

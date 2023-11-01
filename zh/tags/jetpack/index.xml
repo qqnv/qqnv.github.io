@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>jetpack on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/jetpack/</link>
+    <link>https://qqnv.github.io/zh/tags/jetpack/</link>
     <description>Recent content in jetpack on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 00:10:56 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/jetpack/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/jetpack/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Jetpack</title>
-        <link>https://qqnv.com/zh/posts/jetpack/</link>
+        <link>https://qqnv.github.io/zh/posts/jetpack/</link>
         <pubDate>Tue, 15 Mar 2022 00:10:56 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 00:10:56 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/jetpack/</guid>
+        <guid>https://qqnv.github.io/zh/posts/jetpack/</guid>
         <description>Jetpack是一个由多个库组成的套件，可帮助开发者遵循最佳做法，减少样板代码并编写可在各种Android版本和设备中一致运行的代码，让开发</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

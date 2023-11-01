@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>git on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/git/</link>
+    <link>https://qqnv.github.io/zh/tags/git/</link>
     <description>Recent content in git on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 11:37:36 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/git/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>代码托管Git</title>
-        <link>https://qqnv.com/zh/posts/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1git/</link>
+        <link>https://qqnv.github.io/zh/posts/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1git/</link>
         <pubDate>Tue, 15 Mar 2022 11:37:36 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 11:37:36 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1git/</guid>
+        <guid>https://qqnv.github.io/zh/posts/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1git/</guid>
         <description>国内GitHub无法访问或访问慢 进入DNS检测工具 在检测栏输入github.com 把检测列表里的TTL值最小的IP输入到hosts里，并对应</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

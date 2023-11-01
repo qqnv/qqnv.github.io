@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>blog on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/blog/</link>
+    <link>https://qqnv.github.io/zh/tags/blog/</link>
     <description>Recent content in blog on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 18:47:32 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hugo博客搭建</title>
-        <link>https://qqnv.com/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <link>https://qqnv.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Tue, 15 Mar 2022 18:47:32 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 18:47:32 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://qqnv.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>本地博客 安装Hugo brew install hugo 建立新站点 hugo new site blog 添加主题 cd blog git init git submodule add https://github.com/budparr/gohugo-theme-&amp;lt;YOURTHEME&amp;gt;.git themes/&amp;lt;YOURTHEME&amp;gt; 新建文章 hugo new posts/article.md 开启本地服务 hugo server GitHub部署Hugo 创建GitHub</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -60,15 +60,15 @@
       
       <item>
         <title>Hexo博客搭建</title>
-        <link>https://qqnv.com/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <link>https://qqnv.github.io/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Tue, 15 Mar 2022 12:17:18 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 12:17:18 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://qqnv.github.io/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>安装git 安装node.js 安装本地hexo环境 打开命令行工具依次执行： npm install hexo-cli -g hexo init blog cd blog npm install hexo server 关联Github 配置SSH 创建和githu</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -98,15 +98,15 @@
       
       <item>
         <title>Typecho博客搭建</title>
-        <link>https://qqnv.com/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <link>https://qqnv.github.io/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Mon, 14 Mar 2022 21:43:47 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Mon, 14 Mar 2022 21:43:47 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://qqnv.github.io/zh/posts/typecho%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>Typecho搭建博客 登录宝塔面板 前往Typecho官网下载Typecho 安装包 安装Nginx、MySQL、PHP等运行时环境 创建站点，进入</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

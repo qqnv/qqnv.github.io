@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/series/</link>
+    <link>https://qqnv.github.io/zh/series/</link>
     <description>Recent content in Series on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>qqnvblog@gmail.com (qqnv)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
-        <atom:link href="https://qqnv.com/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

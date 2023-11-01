@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>linux on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/linux/</link>
+    <link>https://qqnv.github.io/zh/tags/linux/</link>
     <description>Recent content in linux on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 14 Mar 2022 22:06:07 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>安装Ubuntu教程</title>
-        <link>https://qqnv.com/zh/posts/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E4%B9%8Bubuntu/</link>
+        <link>https://qqnv.github.io/zh/posts/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E4%B9%8Bubuntu/</link>
         <pubDate>Mon, 14 Mar 2022 22:06:07 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Mon, 14 Mar 2022 22:06:07 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E4%B9%8Bubuntu/</guid>
+        <guid>https://qqnv.github.io/zh/posts/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E4%B9%8Bubuntu/</guid>
         <description>Ubuntu安装 下载镜像文件 下载runfuns启动盘制作文件 制作启动U盘 打开软件，引导类型选择下载好的镜像文件，其余默认，然后开始制作启动盘</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

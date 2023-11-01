@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>socket on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/socket/</link>
+    <link>https://qqnv.github.io/zh/tags/socket/</link>
     <description>Recent content in socket on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 14 Mar 2022 10:33:41 +0900</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/socket/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Socket</title>
-        <link>https://qqnv.com/zh/posts/socket/</link>
+        <link>https://qqnv.github.io/zh/posts/socket/</link>
         <pubDate>Mon, 14 Mar 2022 10:33:41 +0900</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Mon, 14 Mar 2022 10:33:41 +0900</atom:modified>
-        <guid>https://qqnv.com/zh/posts/socket/</guid>
+        <guid>https://qqnv.github.io/zh/posts/socket/</guid>
         <description>网络七层模型 应用层 表示层 会话层 传输层 网络层 数据链路层 物理层 http属于应用层，无状态协议 socket属于传输层 Socket what is Socket IP地址与端口的结合协</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

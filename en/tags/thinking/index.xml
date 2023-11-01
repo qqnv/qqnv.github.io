@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>thinking on qqnv</title>
-    <link>https://qqnv.com/en/tags/thinking/</link>
+    <link>https://qqnv.github.io/en/tags/thinking/</link>
     <description>Recent content in thinking on qqnv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 15:59:27 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/en/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/en/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>SaySomething</title>
-        <link>https://qqnv.com/en/posts/saysomething/</link>
+        <link>https://qqnv.github.io/en/posts/saysomething/</link>
         <pubDate>Tue, 15 Mar 2022 15:59:27 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 15:59:27 +0800</atom:modified>
-        <guid>https://qqnv.com/en/posts/saysomething/</guid>
+        <guid>https://qqnv.github.io/en/posts/saysomething/</guid>
         <description>过了这么多年，终于发现了那些让我喜欢的人的特质，他们总是生机勃勃的，有自己喜欢的事情，不过多的干涉别人的生活，懂得人际交往的边界，不四处炫耀</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

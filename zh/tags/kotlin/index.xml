@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>kotlin on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/kotlin/</link>
+    <link>https://qqnv.github.io/zh/tags/kotlin/</link>
     <description>Recent content in kotlin on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 14 Mar 2022 23:09:16 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Kotlin</title>
-        <link>https://qqnv.com/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</link>
+        <link>https://qqnv.github.io/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</link>
         <pubDate>Mon, 14 Mar 2022 23:09:16 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Mon, 14 Mar 2022 23:09:16 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</guid>
+        <guid>https://qqnv.github.io/zh/posts/kotlin%E5%9F%BA%E7%A1%80/</guid>
         <description>异常 Kotlin标准库提供了一些便利函数，使用这些内置函数，你可以拋出带自定义信息的异常，这些便利函数叫做先决条件函数，你可以用它定义先决条</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

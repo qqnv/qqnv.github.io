@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hexo on 曳雨轻风</title>
-    <link>https://qqnv.com/zh/tags/hexo/</link>
+    <link>https://qqnv.github.io/zh/tags/hexo/</link>
     <description>Recent content in hexo on 曳雨轻风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 15 Mar 2022 12:17:18 +0800</lastBuildDate>
     
-        <atom:link href="https://qqnv.com/zh/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://qqnv.github.io/zh/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hexo博客搭建</title>
-        <link>https://qqnv.com/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <link>https://qqnv.github.io/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Tue, 15 Mar 2022 12:17:18 +0800</pubDate>
         <author>qqnvblog@gmail.com (qqnv)</author>
         <atom:modified>Tue, 15 Mar 2022 12:17:18 +0800</atom:modified>
-        <guid>https://qqnv.com/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://qqnv.github.io/zh/posts/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>安装git 安装node.js 安装本地hexo环境 打开命令行工具依次执行： npm install hexo-cli -g hexo init blog cd blog npm install hexo server 关联Github 配置SSH 创建和githu</description>
         
         <dc:creator>qqnv</dc:creator>
-        <media:content url="https://qqnv.comimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://qqnv.github.ioimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
